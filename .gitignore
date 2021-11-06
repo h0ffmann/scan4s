@@ -1,2 +1,54 @@
-*.class
+.envrc
+.bsp/
+.bloop/
+.bloop
+.scannerwork/
+.scannerwork
+.flyway.conf
+docker-local/data
+docker-local/postgres-data
+docker-local/.tmp-arion-docker-compose78965-0.yaml
+# sbt
+# (may want to keep parts of 'project')
+bin/
+#project/
+target/
+build/
+
+
+#metals
+.metals
+.metals/*
+.metals/
+project/metals.sbt
+
+
+# eclipse
+build
+.classpath
+.project
+.settings
+.worksheet
+
+# intellij idea
 *.log
+*.iml
+*.ipr
+*.iws
+.ideas
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/task.xml
+
+# mac
+.DS_Store
+
+# other?
+.history
+.scala_dependencies
+.cache
+#general
+*.class
+
+# mine
+.env

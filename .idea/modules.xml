@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/.jvm.scan4s.iml" filepath="$PROJECT_DIR$/.idea/modules/.jvm.scan4s.iml" group="scan4s" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/default-063500.iml" filepath="$PROJECT_DIR$/.idea/modules/default-063500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/default-063500-build.iml" filepath="$PROJECT_DIR$/.idea/modules/default-063500-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scan4s-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/scan4s-sources.iml" group="scan4s" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scan4sJS.iml" filepath="$PROJECT_DIR$/.idea/modules/scan4sJS.iml" group="scan4s" />
+    </modules>
+  </component>
+</project>
